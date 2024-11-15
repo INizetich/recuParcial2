@@ -1,0 +1,16 @@
+[
+    {
+        "nombreTorneo": "UEFA Champions League",
+        "añoRealizado": 2024,
+        "IdTorneo": 1,
+        "mesFin": 5,
+        "mesInicio": 3
+    },
+    {
+        "nombreTorneo": "UEFA Europa League",
+        "añoRealizado": 2024,
+        "IdTorneo": 3,
+        "mesFin": 10,
+        "mesInicio": 9
+    }
+]
